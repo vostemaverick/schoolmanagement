@@ -12,7 +12,7 @@ A comprehensive web-based school management system built with HTML, CSS, and Jav
 
 ## Files
 
-- `index.html` - Home page
+- `legacy2.html` - Home page
 - `students.html` - Student management page
 - `teachers.html` - Teacher management page
 - `calculator.html` - Calculator page
